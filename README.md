@@ -21,7 +21,7 @@
 
 Пример использования:
 ```php
-include "YandexWordstat.php";
+include "AmoCRM.php";
 
 $amoCrm = new AmoCRM();
 $response = $amoCrm->addDeal("Новая сделка", 5000, "Телефон Xiaomi", "VENDORCODE");
